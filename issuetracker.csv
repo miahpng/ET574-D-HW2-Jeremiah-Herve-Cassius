@@ -1,4 +1,10 @@
 "ID",TYPE,COMMIT #,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,CREATED,RESOLVED,NOTES
-1,task,2f6b3f3,closed,HW 2: Task 1,,Cassius,19-sep,19-sep,19-sep,
+1,task,3d6d89a,closed,HW 2: Task 1,,Cassius,19-sep,19-sep,19-sep,
 2,task,6fd9ccf|41c8a22|a7792bd,closed,HW 2: Task 2,,Jeremiah,20-sep,19-sep,20-sep,
-3,task,856b5d4,closed,HW 2: Task 3,,Herve,20-sep,19-sep,20-sep,
+3,task,545dfa,closed,HW 2: Task 3,,Herve,20-sep,19-sep,20-sep,
+4,task,9a16b81,closed,HW 2: Task 4,,Cassius,19-sep,19-sep,20-sep,
+5,task,41c8a22,closed,HW 2: Task 5,,Jeremiah,19-sep,19-sep,20-sep,
+6,task,d54b43e,closed HW 2: Task 6,,Herve,19-sep,19-sep,20-sep,
+7,task,d365b2b,closed,HW 2: Task 7,,Cassius,19-sep,19-sep,20-sep,
+8,task,a7792bd,closed,HW 2: Task 8,,Jeremiah,19-sep,19-sep,20-sep,
+9,task,856b5d4,closed,HW 2: Task 9,,Herve,19-sep,19-sep,20-sep,
