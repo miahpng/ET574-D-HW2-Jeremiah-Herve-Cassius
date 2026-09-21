@@ -2,8 +2,8 @@ print('Jeremiah Task A')
 print('Cassius Task A')
 print('Herve Task A')
 print('Jeremiah Task B')
-print('Cassius Task B')
+
 print('Herve Task B')
 print('Jeremiah Task C')
-print('Cassius Task C')
+
 print('Herve Task C')
