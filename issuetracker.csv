@@ -1,4 +1,4 @@
-ID,TYPE,COMMIT #,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,CREATED,RESOLVED,NOTES
+"ID",TYPE,COMMIT #,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,CREATED,RESOLVED,NOTES
 1,task,2f6b3f3,closed,HW 2: Task 1,,Cassius,19-sep,19-sep,19-sep,
 2,task,6fd9ccf|41c8a22|a7792bd,closed,HW 2: Task 2,,Jeremiah,19-sep,20-sep,20-sep,
-3,task,,open,HW 2: Task 3,,Herve,20-sep,19-sep,,
+3,task,856b5d4,open,HW 2: Task 3,,Herve,20-sep,19-sep,20-sep,
